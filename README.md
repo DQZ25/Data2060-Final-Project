@@ -12,13 +12,13 @@ The code was developed and test using Python 3.12+.
 
 The core dependencies for this project are:
 
-numpy (for numerical operations)
+numpy (for numerical operations) 1.26.4
 
-pandas (for data handling)
+pandas (for data handling) 2.2.1
 
-matplotlib (for visualization)
+matplotlib (for visualization) 3.8.2
 
-pytest (for unit testing)
+pytest (for unit testing) 8.0.0
 
 ## Author
 Qiuli Lai(qiuli_lai@brown.edu)
