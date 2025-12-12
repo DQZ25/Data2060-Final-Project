@@ -1,6 +1,6 @@
 # CART(Classification and Regression Tree) Modeling Project
 
-This project shows how the Classification and Regression Tree algorithm for Regression work, including the simple description, explaination of limitations and advantages, explaination of math formula, the demo visualization, pseudo code, tree-building process, prediction, and pruning. You can find all the information from the data2060_CART.iphnb Jupyter Notebook.
+This project shows how the Classification and Regression Tree algorithm for Regression work, including the simple description, explaination of limitations and advantages, explaination of math formula, the demo visualization, pseudo code, tree-building process, prediction, and pruning. The comparision between the manual CART regression model and sklearn CART regression model shows the accuracy of our manual tree model. You can find all the information from the data2060_CART.iphnb Jupyter Notebook.
 
 The goal, for this project, is to provide a complete and easy understanding of the CART regression model for learners. We hope by the end, readers can have more idea what the CART regression is and how it works.
 
